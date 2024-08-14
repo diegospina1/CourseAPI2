@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Java",
+    "description": "Curso Java Basic",
+    "id": 1,
+    "price": 60,
+    "active": true
+  },
+  {
+    "name": "Python",
+    "description": "Curso Python Basic",
+    "id": 2,
+    "price": 60,
+    "active": true
+  },
+  {
+    "name": "TypeScript",
+    "description": "Curso TypeScript Basic",
+    "id": 3,
+    "price": 60,
+    "active": true
+  },
+  {
+    "name": "Kotlin",
+    "description": "Curso Kotlin Basic",
+    "id": 4,
+    "price": 60,
+    "active": true
+  },
+  {
+    "name": "C#",
+    "description": "Curso C# Basic",
+    "id": 5,
+    "price": 60,
+    "active": true
+  }
+]
