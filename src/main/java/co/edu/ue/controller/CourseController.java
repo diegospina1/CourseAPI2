@@ -61,7 +61,7 @@ public class CourseController {
     }
 
     //LEYENDO ARCHIVOS LOCALES
-    @GetMapping(value = "/json/{name}", produces = MediaType.APPLICATION_JSON_VALUE)
+    @GetMapping(value = "/json/name/{name}", produces = MediaType.APPLICATION_JSON_VALUE)
     public Course getByNameInJson(@PathVariable("name") String name) {
         return service.findInJsonByName(name);
     }
